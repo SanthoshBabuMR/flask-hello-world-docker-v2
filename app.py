@@ -13,7 +13,7 @@ def main():
 @app.route('/whoami')   # URL '/' to be handled by main() route handler
 def whoami():
     """Who Am I"""
-    return 'I am Batman!!'
+    return 'I am Santhosh!!'
 
 if __name__ == '__main__':  # Script executed directly?
     print("Hello World! Built with Source 2 Image Build Strategy.")
